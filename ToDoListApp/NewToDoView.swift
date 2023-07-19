@@ -63,3 +63,4 @@ struct NewToDoView_Previews: PreviewProvider {
         NewToDoView(title: "", isImportant: false, showNewTask: .constant(true))
     }
 }
+ 

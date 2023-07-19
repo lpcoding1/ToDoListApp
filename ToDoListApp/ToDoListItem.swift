@@ -10,7 +10,7 @@ import Foundation
 class ToDoListItem: Identifiable{
     var title = ""
     var isImportant = false
-    var id = UUID()
+    var id = UUID() 
  
     
     init(title: String, isImportant: Bool = false) {
